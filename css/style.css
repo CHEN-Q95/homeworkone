@@ -1,0 +1,14 @@
+body{
+	color: ;
+	background-color: #138f3c;
+	font-family: "仿宋" ;
+	font-size: 24pt ;
+    
+}	
+p {
+	text-align: center;
+	color: yellow;
+}
+p.rode {
+	color: blue;
+}
